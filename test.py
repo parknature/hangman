@@ -1,6 +1,6 @@
 __author__ = 'parknature'
 
-import hangmantest
+import hangman
 import unittest
 
 class hangmanTestCase(unittest.TestCase):
